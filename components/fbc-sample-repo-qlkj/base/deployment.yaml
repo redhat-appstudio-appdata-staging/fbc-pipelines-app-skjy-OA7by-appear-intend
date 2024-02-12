@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: fbc-pipelines-app-skjy
   name: fbc-sample-repo-qlkj
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
